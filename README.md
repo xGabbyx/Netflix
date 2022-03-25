@@ -1,2 +1,2 @@
 # Netflix
-  Aula de recriação da interface da Netflix
+  Aula de recriação de interface da Netflix
